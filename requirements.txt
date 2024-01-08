@@ -1,0 +1,9 @@
+tensorflow
+karas 
+pandas 
+numpy
+jupyter 
+jupiter notebook
+tqdm
+opencv-contrib-python
+ 
