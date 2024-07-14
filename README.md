@@ -44,6 +44,14 @@ The system can be extended to recognize more emotions or perform additional task
 - Educational: 
 Provides a practical application of machine learning and computer vision techniques.
 
+## Acknowledgements
+This project uses the following libraries and frameworks:
+- OpenCV
+- Keras
+- TensorFlow
+- NumPy
+- pandas
+
 ## Conclusion
 This face detection and emotion recognition project showcases the power of combining computer vision and machine learning techniques. By utilizing OpenCV and a pre-trained CNN, the system can accurately detect faces and recognize emotions in real-time. This project can serve as a foundation for more advanced applications in fields such as human-computer interaction, security, and behavioral analysis.
 
